@@ -106,6 +106,10 @@ docker exec -it {*構築対象} bash
 
     - ブラウザからアクセス http://127.0.0.1:6006
 
+## Display notebooks
+
+- [View Jupyter notebooks in nbviewer](https://nbviewer.jupyter.org/github/ykato27/PyTorch-TensorBoard-example/tree/main/notebooks/)
+
 ## 動作環境
 
 マシンスペック（Mac)
